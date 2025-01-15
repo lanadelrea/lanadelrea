@@ -4,4 +4,4 @@ My current interests are:
 - Developing nextflow pipelines to streamline bioinformatics analysis
 - Analyzing SARS-CoV-2 sequences from genomic surveillance
 - Learning Multilocus Sequence Typing (MLST) on archived clinical bacterial samples
-- and hiking
+- and hiking :sunrise_over_mountains:
