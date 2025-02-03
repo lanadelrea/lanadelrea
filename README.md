@@ -5,4 +5,4 @@ My current interests are:
 - Analyzing SARS-CoV-2 sequences from genomic surveillance
 - Learning Multilocus Sequence Typing (MLST) on archived clinical bacterial samples
 - Learning how to analyze sequences for HIVDRG
-- cooking, baking, and hiking :sunrise_over_mountains:
+- and hiking :sunrise_over_mountains:
